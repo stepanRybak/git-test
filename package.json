@@ -1,0 +1,27 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is the Git and Node basic learning project",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepanRybak/git-test.git"
+  },
+  "author": "Stepan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stepanRybak/git-test/issues"
+  },
+  "homepage": "https://github.com/stepanRybak/git-test#readme",
+  "dependencies": {
+    "lite-server": "^2.2.2",
+    "save-dev": "^2.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
